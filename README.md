@@ -40,7 +40,8 @@ This experiment involves creating an AWS account, configuring security settings 
 
  ### IAM USER:
 
-![Screenshot 2024-11-19 175449](https://github.com/user-attachments/assets/3bccb1ab-d472-4c4c-b216-db962891c1f1)
+![RAJA - IAM user_page-0001](https://github.com/user-attachments/assets/d114ece7-8d7b-477c-bb9d-fd0c580671d3)
+
 
 
 
